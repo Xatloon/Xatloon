@@ -1,4 +1,4 @@
-# 🌱 Hi，我是 艾诺-Xnor，目前在写前端，业余也折腾 Android，热爱开源和新技术。
+# 🌱 Hi，我是 艾诺-Xnor。
 
 <div style="display: flex;width:100%;justify-content: space-between;"> 
   <img style="flex: 1;" alt="About Me" src="https://github-readme-stats.vercel.app/api?username=xnor-bear&show_icons=true&hide_border=true&hide=contribs" />
