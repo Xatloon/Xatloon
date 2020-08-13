@@ -29,9 +29,9 @@
 <h2  align="center">🎏 Recommend for U 🕵</h2>
 <br>
 <p align="center">
-- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
-- [提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
-- []()
+<a href="https://github.com/mzlogin/chinese-copywriting-guidelines">中文文案排版指北</a>
+  <br>
+  <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">提问的智慧</a>
 </p>
 <br>
 <hr>
