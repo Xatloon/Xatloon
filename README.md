@@ -1,6 +1,6 @@
 ## 🌱 Hi，我是 艾诺-Xnor。
 
- <img align="right" alt="About Me" src="https://github-readme-stats.vercel.app/api?username=xnor-bear&show_icons=true&hide_border=true&hide=contribs" />
+ <img align="center" alt="About Me" src="https://github-readme-stats.vercel.app/api?username=xnor-bear&show_icons=true&hide_border=true&hide=contribs" />
 
 
 ![cat](https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif)
