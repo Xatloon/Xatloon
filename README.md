@@ -15,14 +15,13 @@
 <br>
  
 <p align="center">
-  <span style="font-family:"Noto Serif SC", serif;">Xnor，深度强迫症一名，喜欢猫😻和可爱的你💖，喜欢创造，外貌协会资深会员，会被美丽的设计吸引，Google Fans。
+  <span style="color: #97DFFD">Xnor，深度强迫症一名，喜欢猫😻和可爱的你💖，喜欢创造，外貌协会资深会员，会被美丽的设计吸引，Google Fans。
   </span>
   <br> <br>
   <s>网红👻</s> | 前端萌新🤓 | ACG🎮 | 大学🐶 | 爱猫😺 
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=xnor-bear&label=++偷瞄人数+++" alt="https://github.com/xnor-bear" />
 </p>
-<br>
 
 <hr>
 
@@ -33,7 +32,8 @@
   <br> <br>
   <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">💡提问的智慧</a>
 </p>
-<br>
+
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p align="center">✨                                  ✨</p>
