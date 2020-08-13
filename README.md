@@ -1,6 +1,9 @@
 ### 🌱 Hi，我是 艾诺-Xnor，目前在写前端，业余也折腾 Android，热爱开源和新技术。
 
-![cat](https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat.gif)
+<center>
+  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat.gif" alt="cat" style="zoom: 50%;" />
+</center>
+
 --------
 
 <div style="display: flex;width:100%;justify-content: space-between;"> 
