@@ -27,6 +27,7 @@
   <br> <br>
   <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">💡 提问的智慧 💡</a>
 </p>
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif" alt="header"/>
@@ -35,4 +36,4 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<p align="center">✨&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✨</p>
+<p align="center">✨&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✨</p>
