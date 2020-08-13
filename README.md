@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat.gif" alt="header"/>
+  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif" alt="header"/>
 </div>
 <p align="center"> 🌱 Hi，我是 艾诺-Xnor。
 </p>
