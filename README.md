@@ -1,8 +1,8 @@
 ### 🌱 Hi，我是 艾诺-Xnor，目前在写前端，业余也折腾 Android，热爱开源和新技术。
 
-<center>
-  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat.gif" alt="cat" style="zoom: 50%;" />
-</center>
+![cat](https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif)
+
+<center> <s>网红👻</s> | 前端萌新🤓 | ACG🎮 | 大学🐶 | 爱猫😺 </center>
 
 --------
 
