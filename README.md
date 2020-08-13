@@ -1,16 +1,11 @@
 <h1 align="center"> 👋 Hi~ </h1>
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif" alt="header"/>
-</div>
-
-<p align="center">
-  🌱 Hi，我是 艾诺-Xnor。
-</p>
-<br>
 
 <p align="center">
   <img align="center" alt="About Me" src="https://github-readme-stats.vercel.app/api?username=xnor-bear&show_icons=true" />
+</p>
+<p align="center">
+  🌱 Hi，我是 艾诺-Xnor。
 </p>
 <br>
  
@@ -32,6 +27,10 @@
   <br> <br>
   <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">💡提问的智慧</a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif" alt="header"/>
+</div>
 
 <hr>
 
