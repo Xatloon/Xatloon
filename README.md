@@ -20,7 +20,7 @@
   <br>
   <s>网红👻</s> | 前端萌新🤓 | ACG🎮 | 大学🐶 | 爱猫😺 
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=xnor-bear&label=+偷瞄人数+" alt="https://github.com/xnor-bear" />
+  <img src="https://komarev.com/ghpvc/?username=xnor-bear&label=++偷瞄人数++" alt="https://github.com/xnor-bear" />
 </p>
 <br>
 
@@ -28,8 +28,5 @@
 --------
 
 ## 🕵🎏
-
-- 🔭 Coding with love……
-- 📫 How to reach me: The best way to reach me is through [email](mailto:xiangnorth@qq.com).
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
