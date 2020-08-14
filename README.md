@@ -26,6 +26,9 @@
 <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">💡 中文文案排版指北 💡</a>
   <br> <br>
   <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">💡 提问的智慧 💡</a>
+  <br> <br>
+  <a href="https://allcontributors.org/docs/zh-cn/emoji-key">💡 Emoji键 ✨ 💡</a>
+  
 </p>
 <br>
 
@@ -35,5 +38,4 @@
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<p align="center">✨&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✨</p>
+<h2  align="center">✨&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp💻 Check Out My Repos ⬇️&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✨</h2>
