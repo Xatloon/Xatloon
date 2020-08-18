@@ -27,7 +27,7 @@
   <br> <br>
   <a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way">💡 提问的智慧 💡</a>
   <br> <br>
-  <a href="https://allcontributors.org/docs/zh-cn/emoji-key">💡 Emoji键 ✨ 💡</a>
+  <a href="https://allcontributors.org/docs/zh-cn/emoji-key">💡 Emoji键 💡</a>
   
 </p>
 <br>
