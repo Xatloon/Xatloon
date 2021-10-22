@@ -20,10 +20,4 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Xnor-bear/Living-room-for-Pic/master/cat1.gif" alt="header"/>
-</div>
-
-<hr>
-
 <h2  align="center">💻 Check Out My Repos ⬇️</h2>
