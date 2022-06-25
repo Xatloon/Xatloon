@@ -9,7 +9,7 @@
 <div align="center">
   <p>🏷 Tag: <code>#XiangNorth/Xnor</code> <code>#Aliurophile</code> <code>#Front-end Rookie</code></p>
   <p>📪 Emial: i@xiangnorth.com, 📞 Telegram: @XiangNorth.</p>
-  <img src="https://komarev.com/ghpvc/?username=xnor-bear&label=+Peek-a-boo pals+" alt="https://github.com/xnor-bear" />
+  <img src="https://komarev.com/ghpvc/?username=xiangnorth&label=+Peek-a-boo pals+" alt="https://github.com/xiangnorth" />
   <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FXiangNorth&logo=leetcode&logoColor=yellow" />
 </div>
 <hr>
