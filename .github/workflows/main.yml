@@ -2,13 +2,13 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '30 5,17 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-recent-activity:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update recent activity
 
     steps:
       - uses: actions/checkout@v2
@@ -18,3 +18,18 @@ jobs:
         with:
           COMMIT_MSG: 'Update README'
           MAX_LINES: 5
+          
+  update-status:
+    name: Update status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: th3c0d3br34ker/github-readme-info@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TIMEZONE: "Asia/Shanghai"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_TOTAL_CONTRIBUTIONS: "False" 
