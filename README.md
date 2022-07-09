@@ -24,8 +24,3 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xiangnorth.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XiangNorth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@xiangnorth.com)
-
-### 📊 Status
-
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
