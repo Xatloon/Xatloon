@@ -19,17 +19,3 @@ jobs:
           COMMIT_MSG: 'Update README'
           MAX_LINES: 5
           
-  update-status:
-    name: Update status
-    runs-on: ubuntu-latest
-    steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TIMEZONE: "Asia/Shanghai"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False" 
