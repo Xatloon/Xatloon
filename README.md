@@ -15,6 +15,8 @@
 ### 🔖 Recent Activity
 
 <!--START_SECTION:activity--> 
+1. ❌ Closed PR [#2](https://github.com/XiangNorth/Living-room-for-Pic/pull/2) in [XiangNorth/Living-room-for-Pic](https://github.com/XiangNorth/Living-room-for-Pic)
+2. 💪 Opened PR [#1723](https://github.com/qier222/YesPlayMusic/pull/1723) in [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 <!--END_SECTION:activity-->
 
 ### 📪 Contact
