@@ -25,10 +25,6 @@
 - [Hello World Neo](https://xiangnorth.com/2001-07/hello-world-neo)
 <!-- BLOG-POST-LIST:END -->
 
-### 📊 Status
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
-
 ### 📪 Contact
 
 [![Website](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xiangnorth.com)
