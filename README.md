@@ -25,6 +25,10 @@
 - [Hello World Neo](https://xiangnorth.com/2001-07/hello-world-neo)
 <!-- BLOG-POST-LIST:END -->
 
+### 📊 Status
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📪 Contact
 
 [![Website](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xiangnorth.com)
@@ -32,3 +36,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@xiangnorth.com)
 ![WeChat](https://img.shields.io/badge/XiangNorth-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XiangNorth)
+
+![GitHub Snake Light](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@ouput/github-snake-dark.svg#gh-dark-mode-only)
