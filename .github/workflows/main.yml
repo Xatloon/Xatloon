@@ -2,14 +2,13 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 5,17 * * *'
+    - cron: '30 5,11,17,23 * * *'
   workflow_dispatch:
 
 jobs:
   update-recent-activity:
     runs-on: ubuntu-latest
     name: Update recent activity
-
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
@@ -18,4 +17,14 @@ jobs:
         with:
           COMMIT_MSG: 'Update README'
           MAX_LINES: 5
-          
+  
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://xiangnorth.com/atom.xml"
