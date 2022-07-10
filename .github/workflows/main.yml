@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 5,11,17,23 * * *'
+    - cron: '30 5,13,21 * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,21 +28,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://xiangnorth.com/atom.xml"
-          
-  update-status:
-    name: Update this repo's README status
-    runs-on: ubuntu-latest
-    steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Shanghai"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
           
   update-snake:
     name: Update this repo's README snake
