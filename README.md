@@ -42,5 +42,4 @@ No activity tracked
 ![WeChat](https://img.shields.io/badge/XiangNorth-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XiangNorth)
 
-![GitHub Snake Light](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@ouput/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake.svg#gh-light-mode-only)![GitHub Snake dark](https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@ouput/github-snake-dark.svg#gh-dark-mode-only)
