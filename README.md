@@ -34,7 +34,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XiangNorth)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@ouput/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake.svg">
   <img alt="snake" src="https://cdn.jsdelivr.net/gh/XiangNorth/XiangNorth@output/github-snake.svg">
 </picture>
