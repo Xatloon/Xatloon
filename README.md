@@ -19,6 +19,10 @@
 2. 💪 Opened PR [#1723](https://github.com/qier222/YesPlayMusic/pull/1723) in [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 <!--END_SECTION:activity-->
 
+### 💫 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📪 Contact
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xiangnorth.com)
