@@ -44,13 +44,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate snake
-      - uses: Platane/snk@v2.0.0-rc.2
+        uses: Platane/snk@v2.0.0-rc.2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
       - name: push snake to the output
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
