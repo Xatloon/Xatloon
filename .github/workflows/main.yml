@@ -28,3 +28,35 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://xiangnorth.com/atom.xml"
+          
+  update-waka:
+    name: Update this repo's README with waka
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_6_months
+          SHOW_TOTAL: true
+          
+  update-snake:
+    name: Update this repo's README snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake
+      - uses: Platane/snk@v2.0.0-rc.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: push snake to the output
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  
