@@ -6,31 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-recent-activity:
+  update-README:
     runs-on: ubuntu-latest
-    name: Update recent activity
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: update recent activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README'
           MAX_LINES: 5
-  
-  update-blog-post:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in blog posts
+      - name: update blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://xiangnorth.com/atom.xml"
           
   update-snake:
-    name: Update this repo's README snake
     runs-on: ubuntu-latest
     steps:
       - name: generate snake
