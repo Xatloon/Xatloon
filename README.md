@@ -21,6 +21,7 @@
 
 ### 💫 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我是如何发表博客的](https://xiangnorth.com/2022-07/how-i-publish-blog)
 - [名为「Hexo-Theme-Anya」的故事](https://xiangnorth.com/2022-07/the-story-of-anya)
 - [Hello World Neo](https://xiangnorth.com/2001-07/hello-world-neo)
 <!-- BLOG-POST-LIST:END -->
