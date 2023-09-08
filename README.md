@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-- Hey, I'm XiangNorth(Xnor)! 
+- Hey, I'm Xat(Xatloon)! 
 - I'm a student into transportation and self-taught front-end development. I adore cats 🐱 and elegant design 🎨.
 - Currently, I'm diving into JavaScript, TypeScript, React, and Vue.
 - Love UI/UX design and learning Figma.
