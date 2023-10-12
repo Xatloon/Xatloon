@@ -10,7 +10,7 @@
 
 ### 📪 Contact
 
-[![Website](https://img.shields.io/badge/Blog&#58;&#160;Xat Loon&#33;-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.xatloon.me)
+[![Website](https://img.shields.io/badge/Blog&#58;&#160;Xat&#160;Loon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.xatloon.me)
 [![Telegram](https://img.shields.io/badge/Telegram&#58;&#160;Xat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xatloon)
 [![Email](https://img.shields.io/badge/Email&#58;&#160;i&#64;xatloon&#46;me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@xatloon.me)
 ![WeChat](https://img.shields.io/badge/WeChat&#58;&#160;Xatloon-07C160?style=for-the-badge&logo=wechat&logoColor=white)
