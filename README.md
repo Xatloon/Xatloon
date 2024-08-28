@@ -8,11 +8,14 @@
 ### 🧰 Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,vue,nuxtjs,tailwind,md&perline=10)](https://skillicons.dev)
 
+### 👨🏻‍💻 WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📪 Contact
 
 [![Website](https://img.shields.io/badge/Blog&#58;&#160;Xat-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xatloon.com)
 [![Telegram](https://img.shields.io/badge/Telegram&#58;&#160;Xat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xatloon)
 [![Email](https://img.shields.io/badge/Email&#58;&#160;i&#64;xatloon&#46;com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@xatloon.com)
 [![Twitter](https://img.shields.io/badge/X&#58;&#160;Xat-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Xatloon)
-
-
