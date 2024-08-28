@@ -1,17 +1,13 @@
-### 🚀 About Me
+### About Me
 
 - Hi, I'm Xat!
 - Love cat, design & simple life.
 
-### 🧰 Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=figma,rust,ts,react,nextjs,vue,vite,nuxtjs,astro,tailwind&perline=10)](https://skillicons.dev)
 
-### 🔨 Use
-
-
-
-### 👨🏻‍💻 WakaTime
+### WakaTime
 
 <!--START_SECTION:waka-->
 
@@ -25,7 +21,7 @@ TSConfig     44 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 📪 Contact
+### Contact
 
 [![Blog](https://img.shields.io/badge/Blog&#58;&#160;Xat-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xatloon.com)
 [![Telegram](https://img.shields.io/badge/Telegram&#58;&#160;Xat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xatloon)
