@@ -9,6 +9,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,rust,ts,react,nextjs,vue,vite,nuxtjs,astro,tailwind&perline=10)](https://skillicons.dev)
 
+### Use
+
+- Browser: `Arc`, `Firefox Developer Edition`, `Safari`
+- Editor: `Visual Studio Code`, `Zed`, `Cursor`
+- Font: `Cascadia Code`, `Maple Mono`
+- Device: `iPhone 13 Pro`, `Mac mini 2023`, `Huawei MateBook 14`, `OnePlus 8 Pro`
+- Keyboard: `Keychron K3`
+- Mouse: `Logitech G Pro Wireless`
+
 ### WakaTime
 
 <!--START_SECTION:waka-->
