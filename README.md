@@ -1,6 +1,6 @@
 ![Background](https://github.com/Xatloon/Xatloon/blob/main/Background.png?raw=true)
 
-- Hi, I'm Xat!
+- Hi, I'm Xat/kæt/!
 - Love cat, design & simple life.
 
 ### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/code_line.svg?raw=true" alt="Skills" height="16px" width="16px" /> Skills
