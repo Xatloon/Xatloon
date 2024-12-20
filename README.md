@@ -1,22 +1,21 @@
-![Background](https://github.com/Xatloon/Xatloon/blob/main/Background.png?raw=true)
+**Xat** /aɪ tʌ/
 
-- Hi, I'm Xat /kæt/ !
-- Love cat, design & simple life.
+> Love cat, design & simple life.
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/code_line.svg?raw=true" alt="Skills" height="16px" width="16px" /> Skills
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/code_line.svg?raw=true" alt="Skills" height="16px" width="16px" /> skill
 
 [![My Skills](https://skillicons.dev/icons?i=figma,rust,ts,react,nextjs,vue,vite,nuxtjs,astro,tailwind&perline=10)](https://skillicons.dev)
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="16px" width="16px" /> Use
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="16px" width="16px" /> use
 
-- Browser: `Arc`, `Firefox Developer Edition`, `Safari`
-- Editor: `Visual Studio Code`, `Zed`, `Cursor`
-- Font: `Cascadia Code`, `Maple Mono`
-- Device: `iPhone 13 Pro`, `Mac mini 2023`, `MacBook Air M2`, `OnePlus 8 Pro`
-- Keyboard: `Keychron K3`
-- Mouse: `Logitech G Pro Wireless`
+- browser: `Arc`, `Firefox Developer Edition`, `Safari`
+- editor: `Visual Studio Code`, `Zed`, `Cursor`
+- font: `Cascadia Code`, `Maple Mono`
+- device: `iPhone 13 Pro`, `Mac mini 2023`, `MacBook Air M2`, `OnePlus 8 Pro`
+- keyboard: `Keychron K3`
+- mouse: `Logitech G Pro Wireless`
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="16px" width="16px" /> WakaTime
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="16px" width="16px" /> wakatime
 
 <!--START_SECTION:waka-->
 
@@ -30,11 +29,11 @@ Git Config    2 mins          ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chat_2_line.svg?raw=true" alt="Contact" height="16px" width="16px" /> Contact
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chat_2_line.svg?raw=true" alt="Contact" height="16px" width="16px" /> contact
 
-[![Blog](https://img.shields.io/badge/Blog&#58;&#160;Xat-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xatloon.com)
-[![Telegram](https://img.shields.io/badge/Telegram&#58;&#160;Xat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xatloon)
-[![Email](https://img.shields.io/badge/Email&#58;&#160;i&#64;xatloon&#46;com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@xatloon.com)
-[![Twitter](https://img.shields.io/badge/X&#58;&#160;Xat-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Xatloon)
-
-<img src="https://github.com/Xatloon/Xatloon/blob/main/waves.svg?raw=true" alt="Waves" width="100%" />
+<samp>
+  <a href="https://xat.sh">Portfolio & Blog</a> .
+  <a href="https://t.me/Xat_0w0">Telegram</a> .
+  <a href="mailto:i@xat.sh">Email</a> .
+  <a href="https://x.com/Xat_0w0">X(Twitter)</a>
+</samp>
