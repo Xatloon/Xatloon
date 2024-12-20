@@ -2,11 +2,11 @@
 
 > Love cat, design & simple life.
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/code_line.svg?raw=true" alt="Skills" height="16px" width="16px" /> skill
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/code_line.svg?raw=true" alt="Skills" height="14px" width="14px" /> skill
 
 [![My Skills](https://skillicons.dev/icons?i=figma,rust,ts,react,nextjs,vue,vite,nuxtjs,astro,tailwind&perline=10)](https://skillicons.dev)
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="16px" width="16px" /> use
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="14px" width="14px" /> use
 
 - browser: `Arc`, `Firefox Developer Edition`, `Safari`
 - editor: `Visual Studio Code`, `Zed`, `Cursor`
@@ -15,7 +15,7 @@
 - keyboard: `Keychron K3`
 - mouse: `Logitech G Pro Wireless`
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="16px" width="16px" /> wakatime
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="14px" width="14px" /> wakatime
 
 <!--START_SECTION:waka-->
 
@@ -29,7 +29,7 @@ Git Config    2 mins          ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chat_2_line.svg?raw=true" alt="Contact" height="16px" width="16px" /> contact
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chat_2_line.svg?raw=true" alt="Contact" height="14px" width="14px" /> contact
 
 <samp>
   <a href="https://xat.sh">Portfolio & Blog</a> .
