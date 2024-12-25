@@ -15,7 +15,9 @@
 - keyboard: `Keychron K3`
 - mouse: `Logitech G Pro Wireless`
 
-### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="14px" width="14px" /> wakatime
+### <img src="https://github.com/Xatloon/Xatloon/blob/main/MCSVG/chart_bar_line.svg?raw=true" alt="WakaTime" height="14px" width="14px" /> wakatime 
+
+[![wakatime](https://wakatime.com/badge/user/9663a00b-d845-4c8a-b13c-38d20391dbac.svg)](https://wakatime.com/@9663a00b-d845-4c8a-b13c-38d20391dbac)
 
 <!--START_SECTION:waka-->
 
