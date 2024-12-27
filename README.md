@@ -10,6 +10,7 @@
 
 - browser: `Arc`, `Firefox Developer Edition`, `Safari`
 - editor: `Visual Studio Code`, `Zed`, `Cursor`
+- terminal: `Ghostty`
 - font: `Cascadia Code`, `Maple Mono`
 - device: `iPhone 13 Pro`, `Mac mini 2023`, `MacBook Air M2`, `OnePlus 8 Pro`
 - keyboard: `Keychron K3`
