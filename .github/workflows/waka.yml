@@ -15,3 +15,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMITTER_NAME: Xat
           COMMITTER_EMAIL: i@xat.sh
+          TIME_RANGE: all_time
