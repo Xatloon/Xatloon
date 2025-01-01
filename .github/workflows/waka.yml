@@ -14,4 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMITTER_NAME: Xat
-          COMMITTER_EMAIL: i@xatloon.com
+          COMMITTER_EMAIL: i@xat.sh
